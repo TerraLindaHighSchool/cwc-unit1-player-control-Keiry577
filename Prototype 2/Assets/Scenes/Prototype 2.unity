@@ -232,6 +232,25 @@ MonoBehaviour:
   horizontalInput: 0
   speed: 10
   xRange: 10
+--- !u!1 &344957863 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1180137445707430, guid: 84cd279dfc9ea0a4b8564030182915fa,
+    type: 3}
+  m_PrefabInstance: {fileID: 1985687106}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &344957864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 344957863}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ba559d8a0ab47e4a808c9fe35d1ec08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 10
 --- !u!1 &425805626
 GameObject:
   m_ObjectHideFlags: 0
