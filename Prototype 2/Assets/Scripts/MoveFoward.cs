@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MoveFoward : MonoBehaviour
 {
-    public float speed;
+    public float speed = 40;
     // Start is called before the first frame update
     void Start()
     {
